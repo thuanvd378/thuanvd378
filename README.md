@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif"
-       alt="👋 Hi, my name is Vu Duc Thuan"
        style="display:block;width:800px;height:auto;">
 </p>
+<p>👋 Hi, my name is Vu Duc Thuan</p>
 
 # 💫 About Me:
-I'm currently working on Internet of Things<br>🍀I'm currently learning : C, C++, Python, ESP32<br>❓Ask me about : C, C++, Python, ESP32<br>🎶Fun fact : I can play the piano
+💪I'm currently working on Internet of Things<br>🍀I'm currently learning : C, C++, Python, ESP32<br>❓Ask me about : C, C++, Python, ESP32<br>🎶Fun fact : I can play the piano
 
 
 ## 🌐 Socials:

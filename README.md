@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif"
-       style="display:block;width:800px;height:auto;">
+       style="display:block;width:800px;height:300px;">
 </p>
-<p>👋 Hi, my name is Vu Duc Thuan</p>
+<h1 align="center">👋Hi, my name is Vu Duc Thuan</h1>
 
 # 💫 About Me:
 💪I'm currently working on Internet of Things<br>🍀I'm currently learning : C, C++, Python, ESP32<br>❓Ask me about : C, C++, Python, ESP32<br>🎶Fun fact : I can play the piano

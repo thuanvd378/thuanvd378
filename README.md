@@ -16,7 +16,6 @@
 
 - 🎓 **B.S. in Smart Embedded Systems and IoT (Expected 2027)** @ Hanoi University of Science and Technology (HUST)
 - 🔬 **Tech Focus:** Embedded Systems, Internet of Things (IoT), Edge AI, and real-time processing systems.
-- 🎵 **Beyond Coding:** Head of Instrumentation Section @ GleeBK Music Club | Passionate about playing the piano and keyboard.
 - 🤝 **Open for:** Collaborations in IoT solutions, AI integration, and embedded software development.
 
 ---

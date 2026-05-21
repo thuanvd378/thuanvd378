@@ -63,11 +63,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=thuanvd378&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanvd378&theme=dark&hide_border=true&layout=compact" width="48%" />
-
-  <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuanvd378&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
